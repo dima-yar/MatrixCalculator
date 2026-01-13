@@ -99,7 +99,7 @@ All operations include **dimension validation** and **exception handling**.
 
 ---
 
-## 👤 Author
+## 👤 Author: [Dmytro Yarmoliuk](https://github.com/dima-yar)
 
 **Matrix Calculator**  
 Developed as a learning project in Java & Swing
